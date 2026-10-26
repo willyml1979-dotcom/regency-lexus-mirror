@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Lexus",
-  "generated_at": "2026-10-26T01:13:23",
-  "vehicle_count": 336,
+  "generated_at": "2026-10-26T01:23:06",
+  "vehicle_count": 334,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -599,10 +599,10 @@
     },
     {
       "name": "Lexus2026 UX Hybrid F SPORT",
-      "vin": "JTHUCJDHXT2019659",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/dd176422191c.html",
+      "vin": "JTHUCJDH4T2019706",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/c81dd8f387f0.html",
       "condition": "new",
-      "price": 56667.0,
+      "price": 0.0,
       "price_currency": "CAD"
     },
     {
@@ -1039,8 +1039,8 @@
     },
     {
       "name": "Lexus2026 UX Hybrid 300h",
-      "vin": "JTHUCJDH4T1747163",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/99b04e97a1f7.html",
+      "vin": "JTHUCJDH4T1747162",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/f320ae793d8d.html",
       "condition": "new",
       "price": 53354.0,
       "price_currency": "CAD"
@@ -1094,14 +1094,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Lexus2026 RX Plug-In Hybrid 450h+ Ultra Premium",
-      "vin": "JTJCJMGA2T1747303",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/945d7961040e.html",
-      "condition": "new",
-      "price": 0.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Lexus2026 IS F Sport Design",
       "vin": "JTHGZ1E2XT1748116",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/c11a50abde14.html",
@@ -1147,14 +1139,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/4ec3006ece24.html",
       "condition": "new",
       "price": 54004.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Lexus2026 RX Plug-In Hybrid 450h+ Ultra Premium",
-      "vin": "JTJCJMGAXT2051172",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/42a3f9ce2d8a.html",
-      "condition": "new",
-      "price": 81990.0,
       "price_currency": "CAD"
     },
     {
@@ -1235,14 +1219,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/94f6e57326df.html",
       "condition": "new",
       "price": 95391.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Lexus2026 NX Luxury",
-      "vin": "2T2GKCEZXT1734829",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/5c1a30d7d58f.html",
-      "condition": "new",
-      "price": 62714.0,
       "price_currency": "CAD"
     },
     {
@@ -1446,14 +1422,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Lexus2026 NX Plug-In Hybrid Executive",
-      "vin": "JTJHKCFZ9T1748411",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/1b9a56e00b8b.html",
-      "condition": "new",
-      "price": 79450.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Lexus2026 RX Plug-In Hybrid 450h+ Executive",
       "vin": "JTJCJMGA1T1747342",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/459f24715f88.html",
@@ -1643,6 +1611,22 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/761e1ffaa95a.html",
       "condition": "new",
       "price": 48540.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus2026 UX Hybrid 300h",
+      "vin": "JTHUCJDH5T2021626",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/b65d8e63ac44.html",
+      "condition": "new",
+      "price": 54004.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus2026 UX Hybrid 300h",
+      "vin": "JTHUCJDH7T2021661",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/b82133a86657.html",
+      "condition": "new",
+      "price": 53354.0,
       "price_currency": "CAD"
     },
     {
@@ -1854,6 +1838,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Lexus2026 RX Plug-In Hybrid 450h+ Ultra Premium",
+      "vin": "JTJCJMGA1T2052646",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/7ad3398f719e.html",
+      "condition": "new",
+      "price": 81990.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Lexus2026 NX Hybrid Luxury",
       "vin": "2T2GKCEZ4TC085030",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/acced444f0ef.html",
@@ -1899,14 +1891,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/88a7f1ee085a.html",
       "condition": "new",
       "price": 54004.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Lexus2026 UX Hybrid 300h",
-      "vin": "JTHUCJDH3T1763461",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/d4a0b19eb153.html",
-      "condition": "new",
-      "price": 53354.0,
       "price_currency": "CAD"
     },
     {
