@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Lexus",
-  "generated_at": "2026-11-17T13:15:49",
-  "vehicle_count": 322,
+  "generated_at": "2026-11-18T02:45:49",
+  "vehicle_count": 324,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2054,17 +2054,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2007 Honda Cr-V EX",
-      "vin": "5J6RE48717L808572",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/c882e38169fd.html",
-      "year": 2007,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 10493.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2014 BMW X5 Xdrive35i",
       "vin": "5UXKR0C54E0H24000",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/20a3573c84e3.html",
@@ -2094,7 +2083,18 @@
       "make": "BMW",
       "model": "Z4sDrive35i",
       "condition": "used",
-      "price": 33493.0,
+      "price": 29398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Subaru Forester 2.5I Touring",
+      "vin": "JF2SJCXC6GH541817",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/d31cab7aef35.html",
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 23493.0,
       "price_currency": "CAD"
     },
     {
@@ -2116,7 +2116,7 @@
       "make": "Acura",
       "model": "RDX",
       "condition": "used",
-      "price": 23398.0,
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
@@ -2153,14 +2153,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Lexus Lexus IS",
+      "name": "2018 Lexus IS300 AWD",
       "vin": "JTHC81D26J5029805",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/d98363a9e970.html",
       "year": 2018,
       "make": "Lexus",
-      "model": "Lexus IS",
+      "model": "IS300 AWD",
       "condition": "used",
-      "price": 31998.0,
+      "price": 30398.0,
       "price_currency": "CAD"
     },
     {
@@ -2208,6 +2208,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2020 Volvo XC90T6 R-Design",
+      "vin": "YV4A22PM9L1559822",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/fee071b04d82.html",
+      "year": 2020,
+      "make": "Volvo",
+      "model": "XC90",
+      "condition": "used",
+      "price": 32493.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Lexus LX 570",
       "vin": "JTJDY7AX2M4349817",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/4ad5cf85bc04.html",
@@ -2215,7 +2226,7 @@
       "make": "Lexus",
       "model": "LX",
       "condition": "used",
-      "price": 93398.0,
+      "price": 92998.0,
       "price_currency": "CAD"
     },
     {
@@ -2226,7 +2237,7 @@
       "make": "Toyota",
       "model": "C-HR",
       "condition": "used",
-      "price": 25498.0,
+      "price": 24998.0,
       "price_currency": "CAD"
     },
     {
@@ -2241,6 +2252,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 Toyota RAV4 Hybrid Limited AWD",
+      "vin": "2T3DWRFV4MW120358",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/5a4d527ea6b4.html",
+      "year": 2021,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "used",
+      "price": 38493.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2021 Volvo Xc90 T8 Recharge R-Design",
       "vin": "YV4BR0CM8M1674682",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/93093911d670.html",
@@ -2248,7 +2270,7 @@
       "make": "Volvo",
       "model": "XC90",
       "condition": "used",
-      "price": 41398.0,
+      "price": 39398.0,
       "price_currency": "CAD"
     },
     {
@@ -2303,7 +2325,7 @@
       "make": "BMW",
       "model": "330i xDriveBase",
       "condition": "used",
-      "price": 44398.0,
+      "price": 43398.0,
       "price_currency": "CAD"
     },
     {
@@ -2369,7 +2391,7 @@
       "make": "Toyota",
       "model": "Corolla Hybrid",
       "condition": "used",
-      "price": 32493.0,
+      "price": 31800.0,
       "price_currency": "CAD"
     },
     {
@@ -2523,7 +2545,7 @@
       "make": "Toyota",
       "model": "Tacoma",
       "condition": "used",
-      "price": 59493.0,
+      "price": 58200.0,
       "price_currency": "CAD"
     },
     {
@@ -2557,6 +2579,17 @@
       "model": "Corolla Hybrid",
       "condition": "used",
       "price": 35498.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Toyota RAV4 SE",
+      "vin": "2T34WRFV3RW191610",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/9a7d669c93ca.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 45493.0,
       "price_currency": "CAD"
     },
     {
@@ -2647,17 +2680,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota RAV4 XLE  Premium",
-      "vin": "2T3R1RFV6SW629420",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/7afeeffd6593.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 44493.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Toyota Crown Signia Limited",
       "vin": "JTDACAAJ4S3012470",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/4c0c5d2de589.html",
@@ -2665,7 +2687,7 @@
       "make": "Toyota",
       "model": "Crown Signia",
       "condition": "used",
-      "price": 53398.0,
+      "price": 52998.0,
       "price_currency": "CAD"
     },
     {
@@ -2742,7 +2764,7 @@
       "make": "Toyota",
       "model": "4Runner Hybrid",
       "condition": "used",
-      "price": 80493.0,
+      "price": 78800.0,
       "price_currency": "CAD"
     },
     {
@@ -2753,7 +2775,7 @@
       "make": "Toyota",
       "model": "Corolla",
       "condition": "used",
-      "price": 28493.0,
+      "price": 28200.0,
       "price_currency": "CAD"
     },
     {
