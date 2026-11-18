@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Lexus",
-  "generated_at": "2026-11-18T02:45:49",
-  "vehicle_count": 324,
+  "generated_at": "2026-11-18T03:04:33",
+  "vehicle_count": 318,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -275,14 +275,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/120d10786ac3.html",
       "condition": "new",
       "price": 58575.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Lexus2026 IS F Sport 2",
-      "vin": "JTHGZ1E24T5048143",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/29aa52c43b0b.html",
-      "condition": "new",
-      "price": 64307.0,
       "price_currency": "CAD"
     },
     {
@@ -962,7 +954,7 @@
       "vin": "JTHUCJDH9T2021578",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/c4aeb78f9d4b.html",
       "condition": "new",
-      "price": 50388.0,
+      "price": 50000.0,
       "price_currency": "CAD"
     },
     {
@@ -1026,7 +1018,7 @@
       "vin": "JTHUCJDH6T2021845",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/64e1a610f9ae.html",
       "condition": "new",
-      "price": 50388.0,
+      "price": 50000.0,
       "price_currency": "CAD"
     },
     {
@@ -1034,7 +1026,7 @@
       "vin": "JTHUCJDH3T2021706",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/f8ab32956273.html",
       "condition": "new",
-      "price": 56667.0,
+      "price": 56669.0,
       "price_currency": "CAD"
     },
     {
@@ -1075,14 +1067,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/88cff42b4adb.html",
       "condition": "new",
       "price": 68977.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Lexus2026 NX Hybrid Luxury",
-      "vin": "2T2GKCEZ3TC085259",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/7aeeb3ad2302.html",
-      "condition": "new",
-      "price": 65010.0,
       "price_currency": "CAD"
     },
     {
@@ -1211,14 +1195,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/8d116813016a.html",
       "condition": "new",
       "price": 94244.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Lexus2026 UX Hybrid 300h",
-      "vin": "JTHUCJDH4T2022413",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/3f00d86aa0d0.html",
-      "condition": "new",
-      "price": 53354.0,
       "price_currency": "CAD"
     },
     {
@@ -1782,14 +1758,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Lexus2026 RX Hybrid 350h Luxury",
-      "vin": "2T2BBMCA7TC161949",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/60ba140ab61a.html",
-      "condition": "new",
-      "price": 73904.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Lexus2026 RX Ultra Luxury",
       "vin": "2T2BAMCAXTC167859",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/70e4a39bfafc.html",
@@ -1958,14 +1926,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Lexus2026 RX Hybrid 350h Ultra Luxury",
-      "vin": "2T2BBMCA5TC162310",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/bb9736cdb114.html",
-      "condition": "new",
-      "price": 78059.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Lexus2026 RX Hybrid 350h Premium",
       "vin": "2T2BBMCA7TC162485",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/a7fe10e99cf3.html",
@@ -2043,14 +2003,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/473efed9e8a7.html",
       "condition": "new",
       "price": 80100.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Lexus2026 NX Plug-In Hybrid Ultra Premium",
-      "vin": "JTJHKCFZ4T2108552",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/new/983f628c2e87.html",
-      "condition": "new",
-      "price": 63485.0,
       "price_currency": "CAD"
     },
     {
