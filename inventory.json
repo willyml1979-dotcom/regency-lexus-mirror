@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Lexus",
-  "generated_at": "2026-11-18T11:41:48",
-  "vehicle_count": 315,
+  "generated_at": "2026-11-18T22:03:26",
+  "vehicle_count": 314,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1974,14 +1974,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Toyota Corolla",
-      "vin": "2T1BU4EE2DC035417",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/30fc70e48742.html",
-      "year": 2013,
+      "name": "2012 Toyota CamryHybrid LE",
+      "vin": "4T1BD1FK2CU044943",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/cd33792d5d95.html",
+      "year": 2012,
       "make": "Toyota",
-      "model": "Corolla",
+      "model": "Camry Hybrid",
       "condition": "used",
-      "price": 9493.0,
+      "price": 17398.0,
       "price_currency": "CAD"
     },
     {
@@ -2015,6 +2015,17 @@
       "model": "Z4sDrive35i",
       "condition": "used",
       "price": 29398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Subaru Forester 2.5I Touring",
+      "vin": "JF2SJCXC6GH541817",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/d31cab7aef35.html",
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Forester",
+      "condition": "used",
+      "price": 23493.0,
       "price_currency": "CAD"
     },
     {
@@ -2059,17 +2070,6 @@
       "model": "Beetle",
       "condition": "used",
       "price": 18398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Audi Q5 Progressiv",
-      "vin": "WA1ENAFY0J2160213",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/9aca2c8b381e.html",
-      "year": 2018,
-      "make": "Audi",
-      "model": "Q5",
-      "condition": "used",
-      "price": 23600.0,
       "price_currency": "CAD"
     },
     {
@@ -2271,17 +2271,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda CivicSport",
-      "vin": "2HGFE2F59PH100471",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/ec0316d1fd08.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 23493.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Infiniti QX50Sensory",
       "vin": "3PCAJ5EB4PF103989",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/432652e9aca3.html",
@@ -2392,17 +2381,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Lexus RX 350",
-      "vin": "2T2BAMCA1RC054990",
-      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/c5cb8b514ed4.html",
-      "year": 2024,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 57398.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Lexus NX 350",
       "vin": "2T2GGCEZ2RC045121",
       "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/68bc9f832f6f.html",
@@ -2444,6 +2422,17 @@
       "model": "NX",
       "condition": "used",
       "price": 50398.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Lexus RX 350",
+      "vin": "2T2BAMCA8RC042951",
+      "url": "https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/88378601d832.html",
+      "year": 2024,
+      "make": "Lexus",
+      "model": "RX",
+      "condition": "used",
+      "price": 51398.0,
       "price_currency": "CAD"
     },
     {
