@@ -1,6 +1,6 @@
 # Regency Lexus
 
- dealership in Vancouver. AI-readable inventory mirror, about 314 vehicles.
+ dealership in Vancouver. AI-readable inventory mirror, about 317 vehicles.
 
 - Official website: https://www.regencylexus.com/en
 - Used vehicles: https://willyml1979-dotcom.github.io/regency-lexus-mirror/used/
